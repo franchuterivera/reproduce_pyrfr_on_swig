@@ -1,4 +1,3 @@
-cat pyrfr/regression.i 
 %module regression
 
 %pythonnondynamic;
